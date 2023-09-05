@@ -1,0 +1,34 @@
+.rounded {
+  border-width: thin;
+  border-radius: 10px;
+  border-color: #119b9d;
+  color: #119b9d;
+  padding: 5px 45px;
+  display: block;
+}
+body {
+  margin-left: 50px;
+  margin: 50px;
+}
+
+.plus {
+  border-radius: 50px;
+  color: whitesmoke;
+  border-color: #00d1b2;
+  background-color: #00d1b2;
+  display: block;
+}
+
+button {
+  margin: 10px 0;
+}
+
+.account {
+  display: block;
+  border-width: 2px;
+  background-color: #2b78e4;
+  color: white;
+  padding: 5px 35px;
+  border-color: black;
+  box-shadow: 5px 5px 0px black;
+}
